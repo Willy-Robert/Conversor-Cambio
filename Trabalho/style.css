@@ -1,0 +1,13 @@
+.exe{
+    width: 200px;
+    height: 100px;
+    background-color: lightgreen;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+}
