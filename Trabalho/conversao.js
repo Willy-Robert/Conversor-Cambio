@@ -1,6 +1,6 @@
 document.getElementById('teste-API').addEventListener('click', function () {
 
-    const apiKey = 'cf19793aad631d61e884eacb';
+    const apiKey = '********';
 
 
     obterTaxaDolar(apiKey)
